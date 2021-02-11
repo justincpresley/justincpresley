@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Justin C Presley </h1>
+<h1>- | - Justin C Presley - | -</h1>
 
 You have finally discovered my Github profile. <br>
 Ask me anything <a href="https://github.com/justincpresley/justincpresley/issues/new"><b>here</b></a> or see me contacts below!
