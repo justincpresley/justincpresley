@@ -6,8 +6,6 @@ You have finally discovered my Github profile. <br>
 Ask me anything <a href="https://github.com/justincpresley/justincpresley/issues/new"><b>here</b></a><br>
 or see me contacts below!
 
-<i>Happy Coding!</i>
-
 </div>
 
 <div align="center">
