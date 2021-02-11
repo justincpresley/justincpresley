@@ -1,4 +1,4 @@
-<div align="center"> <h2> Justin C Presley </h2> </div>
+<div align="center"> <h1> Justin C Presley </h1> </div>
 
 <div align="center">
 
