@@ -12,11 +12,11 @@ Ask me anything <a href="https://github.com/justincpresley/justincpresley/issues
 ---
 
 <i>Where am I around the web:</i><br>
-Linkedin: https://www.linkedin.com/in/justincpresley
-Email: justincpresley@gmail.com
+Linkedin: https://www.linkedin.com/in/justincpresley | 
+Email: justincpresley@gmail.com | 
 Github: https://github.com/justincpresley
 </br>
-Google Scholar: https://scholar.google.com/citations?user=Jixsuv0AAAAJ
+Google Scholar: https://scholar.google.com/citations?user=Jixsuv0AAAAJ | 
 Website: TODO
 <!-- Website: https://www.justincpresley.com --!> <!-- Soon to be implemented--!>
 
