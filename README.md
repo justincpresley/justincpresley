@@ -11,7 +11,7 @@ Ask me anything <a href="https://github.com/justincpresley/justincpresley/issues
 
 ---
 
-<i>Contacts and Connection:</i><br>
+<i>Contacts + Connections:</i><br>
 Linkedin: https://www.linkedin.com/in/justincpresley | 
 Email: justincpresley@gmail.com | 
 Github: https://github.com/justincpresley
