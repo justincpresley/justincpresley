@@ -3,8 +3,7 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-Ask me anything <a href="https://github.com/justincpresley/justincpresley/issues/new"><b>here</b></a><br>
-or see me contacts below!
+Ask me anything <a href="https://github.com/justincpresley/justincpresley/issues/new"><b>here</b></a> or see me contacts below!
 
 </div>
 
