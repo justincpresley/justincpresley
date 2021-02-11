@@ -13,8 +13,6 @@ Ask me anything <a href="https://github.com/justincpresley/justincpresley/issues
 
 </br>
 
----
-
 <i>Where am I around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
