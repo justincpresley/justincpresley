@@ -17,6 +17,5 @@ Ask me anything <a href="https://github.com/justincpresley/justincpresley/issues
 [Github](https://github.com/justincpresley) |
 [Google Scholar](https://scholar.google.com/citations?user=Jixsuv0AAAAJ) | 
 [Website]()
-<!-- Website: https://www.justincpresley.com --!> <!-- Soon to be implemented--!>
 
 </div>
