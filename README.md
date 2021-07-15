@@ -12,7 +12,7 @@ Ask me anything <a href="https://github.com/justincpresley/justincpresley/issues
 
 <i>Contacts + Connections:</i><br>
 [**Linkedin**](https://www.linkedin.com/in/justincpresley) | 
-[**Email**](mailto:justincpresley@email.com?subject=[GitHub]%20Source%20Han%20Sans) | 
+[**Email**](mailto:justincpresley@email.com?subject=[GitHub]%20General%20Inquiry) | 
 [**Github**](https://github.com/justincpresley) |
 [**Google Scholar**](https://scholar.google.com/citations?user=Jixsuv0AAAAJ)
 
